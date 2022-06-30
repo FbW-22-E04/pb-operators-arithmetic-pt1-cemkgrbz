@@ -41,8 +41,7 @@ console.log(`Q10: ${(8+6+5+9+8+2+1+8.5+7+4)/10} hours`)
 
 //11
 
-//console.log([75+70+85+90+100]/5)
-console.log(`Q11: Score in the sixth test: ${85*2-84}`)
+console.log(`Q11: Score in the sixth test: ${85*6-(75+70+85+90+100)}`)
 
 //12
 
